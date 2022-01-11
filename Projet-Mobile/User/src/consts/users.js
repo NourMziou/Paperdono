@@ -1,0 +1,60 @@
+const users = [
+  {
+    id: '1',
+    name: 'Chiheb Saidi',
+    ingredients: '10,000 points',
+    price: '1st',
+    trees:'80 trees saved',
+    image: require('../assets/chiheb.jpg'),
+  },
+  {
+    id: '2',
+    name: 'Wael Seddik',
+    ingredients: '9,000 points',
+    price: '2nd',
+    trees:'70 trees saved',
+    image: require('../assets/wael.jpg'),
+  },
+  {
+    id: '3',
+    name: 'Salma Tekaya',
+    ingredients: '8,000 points',
+    price: '3rd',
+    trees:'60 trees saved',
+    image: require('../assets/salma.jpg'),
+  },
+  {
+    id: '4',
+    name: 'Aymen Maskhi',
+    ingredients: '7,000 points',
+    price: '4th',
+    trees:'50 trees saved',
+    image: require('../assets/aymen.jpg'),
+  },
+  {
+    id: '5',
+    name: 'Sara Oualha',
+    ingredients: '6,000 points',
+    price: '5th',
+    trees:'40 trees saved',
+    image: require('../assets/sarra.jpg'),
+  },
+  {
+    id: '6',
+    name: 'Darine Smirani',
+    ingredients: '5,000 points',
+    price: '6th',
+    trees:'30 trees saved',
+    image: require('../assets/darine.jpg'),
+  },
+  {
+    id: '7',
+    name: 'Ghazi Jribi',
+    ingredients: '4,000 points',
+    price: '7th',
+    trees:'20 trees saved',
+    image: require('../assets/ghazi.jpg'),
+  },
+];
+
+export default users;
